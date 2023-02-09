@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/index.css">
+  <script src="js/index.js"></script>
+  <title>Freedom</title>
+</head>
+<body>
+  <header class="navigation">
+     <h3 class="log"> FREEDOM </h3>
+    <section class="navigation_bar">
+      <form class="navi">
+        <input class="search" type="search" placeholder="Pesquise aqui:"/>
+        <button class="search_button" type="submit"> Search </button>
+      </form>
+    </section>
+  </header>
+  
+  <section class="content_nav">
+    <ul>
+      <li>
+        <a href=""> Ao Vivo </a>
+        <a href=""> Games </a>
+        <a href=""> Musica </a>
+        <a href=""> Em Alta </a>
+      </li>
+    </ul>
+  </section>
+  <section class="ads">
+    Anúncios
+  </section>
+  <main class="content">
+    <div><iframe width="320" height="200" src="https://www.youtube.com/embed/S8iYNNpKvCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h4 classe="fontrap"> Rap do Hashirama (Naruto) - O PRIMEIRO HOKAGE | NERD HITS</h4>
+    </div><div><iframe width="320" height="200" src="https://www.youtube.com/embed/S8iYNNpKvCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h4 classe="fontrap"> Rap do Hashirama (Naruto) - O PRIMEIRO HOKAGE | NERD HITS</h4>
+    </div><div><iframe width="320" height="200" src="https://www.youtube.com/embed/S8iYNNpKvCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h4 classe="fontrap"> Rap do Hashirama (Naruto) - O PRIMEIRO HOKAGE | NERD HITS</h4>
+    </div><div><iframe width="320" height="200" src="https://www.youtube.com/embed/S8iYNNpKvCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h4 classe="fontrap"> Rap do Hashirama (Naruto) - O PRIMEIRO HOKAGE | NERD HITS</h4>
+    </div><div><iframe width="320" height="200" src="https://www.youtube.com/embed/S8iYNNpKvCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h4 classe="fontrap"> Rap do Hashirama (Naruto) - O PRIMEIRO HOKAGE | NERD HITS</h4>
+    </div><div><iframe width="320" height="200" src="https://www.youtube.com/embed/S8iYNNpKvCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h4 classe="fontrap"> Rap do Hashirama (Naruto) - O PRIMEIRO HOKAGE | NERD HITS</h4>
+    </div><div><iframe width="320" height="200" src="https://www.youtube.com/embed/S8iYNNpKvCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h4 classe="fontrap"> Rap do Hashirama (Naruto) - O PRIMEIRO HOKAGE | NERD HITS</h4>
+    </div><div><iframe width="320" height="200" src="https://www.youtube.com/embed/S8iYNNpKvCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h4 classe="fontrap"> Rap do Hashirama (Naruto) - O PRIMEIRO HOKAGE | NERD HITS</h4>
+    </div><div><iframe width="320" height="200" src="https://www.youtube.com/embed/S8iYNNpKvCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h4 classe="fontrap"> Rap do Hashirama (Naruto) - O PRIMEIRO HOKAGE | NERD HITS</h4>
+    </div><div><iframe width="320" height="200" src="https://www.youtube.com/embed/S8iYNNpKvCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h4 classe="fontrap"> Rap do Hashirama (Naruto) - O PRIMEIRO HOKAGE | NERD HITS</h4>
+    </div><div><iframe width="320" height="200" src="https://www.youtube.com/embed/S8iYNNpKvCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h4 classe="fontrap"> Rap do Hashirama (Naruto) - O PRIMEIRO HOKAGE | NERD HITS</h4>
+    </div><div><iframe width="320" height="200" src="https://www.youtube.com/embed/S8iYNNpKvCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h4 classe="fontrap"> Rap do Hashirama (Naruto) - O PRIMEIRO HOKAGE | NERD HITS</h4>
+    </div>
+  </main>
+  <aside class="shorts">
+    conteúdo secundário
+  </aside>
+  <footer class="footer"></footer>
+
+</body>
+</html>
